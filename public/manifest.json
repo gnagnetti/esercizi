@@ -1,0 +1,17 @@
+{
+  "name": "Accademia Russa",
+  "short_name": "AccademiaRussa",
+  "description": "Pratica la reggenza verbale e i casi russi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/197/197408.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
